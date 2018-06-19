@@ -1,2 +1,1 @@
 # mytestproject
-Ez egy teszt
